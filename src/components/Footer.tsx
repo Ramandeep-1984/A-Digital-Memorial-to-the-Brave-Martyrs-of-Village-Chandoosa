@@ -76,7 +76,7 @@ export default function Footer({ t, lang }: FooterProps) {
             © {new Date().getFullYear()} • Village Chandoosa Digital Memorial
           </p>
           <div className="flex flex-col items-center gap-2 order-1 sm:order-2">
-            <span className="text-parchment/50 text-xs font-medium tracking-wide">Connect with Dev</span>
+            <span className="text-parchment/50 text-xs font-medium tracking-wide">Connect with Developer</span>
             <div className="flex items-center gap-4">
               {/* Instagram */}
               <a
