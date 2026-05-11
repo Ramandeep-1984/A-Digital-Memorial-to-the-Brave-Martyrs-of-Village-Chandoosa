@@ -111,7 +111,7 @@ export default function Footer({ t, lang }: FooterProps) {
               </a>
               {/* LinkedIn */}
               <a
-                href="https://www.linkedin.com/in/ramandeep-singh-8b9455384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                href="https://www.linkedin.com/in/raman1984/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:scale-110 transition-transform duration-300"
