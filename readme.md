@@ -12,6 +12,8 @@ This is a **QR-code accessible memorial website** designed to be placed at the p
 
 On **22 October 1947**, tribal raiders (Kabalis) entered Kashmir through Muzaffarabad and Uri. The Sikh community of Chandoosa faced immense persecution but refused to abandon their faith. Many brave men, women, and children embraced shaheedi with honor and unwavering devotion to Sikhi.
 
+<img src="Website-Qr.png" alt="Alt Text" width="400">
+
 ---
 
 ## ✨ Features
